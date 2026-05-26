@@ -82,11 +82,6 @@ Dataset: *Hospital Management 10K Records* (Simulated Healthcare Data)
 License: *Open Educational Use*  
 Format: CSV File – integrated into Power BI for interactive analysis  
 
----
-
-### 🏁 Author
-**Created by:** *Paramesh Mandapaka*  
-📧 *mandapakaparamesh9@gmail.com*
 
 ---
 
